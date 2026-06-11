@@ -1,8 +1,8 @@
 Flask
-Werkzeug
 pandas
 numpy
 scikit-learn
 openpyxl
 gunicorn
 reportlab
+google-generativeai
